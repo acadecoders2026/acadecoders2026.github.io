@@ -41,7 +41,7 @@ window.addEventListener("resize", resize);
 
 function connect() {
 // --- WebSocket ---
-ws = new WebSocket(`ws://${ip}:8080`);
+ws = new WebSocket(`wss://${ip}:8080`);
 
 id = username + Math.random().toString().slice(2, 5);
 	

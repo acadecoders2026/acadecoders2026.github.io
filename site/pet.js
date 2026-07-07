@@ -2,7 +2,7 @@
 let pet;
 function createPet() {
     pet = document.createElement("img")
-    pet.src = "./images/idlePet.png"
+    pet.src = "images/idlePet.png"
     pet.alt = "pet"
     pet.width=70;
     pet.height=70;
@@ -27,10 +27,10 @@ pet.addEventListener("mouseenter", () => {
 })
 
 pet.addEventListener("click", () => {
-    pet.src = "./images/petpet.png";
+    pet.src = "images/petpet.png";
     pet.style.transform = `scale(1.1)`
     setTimeout(() => {
-        pet.src = "./images/idlePet.png"
+        pet.src = "images/idlePet.png"
         pet.style.transform = `scale(1)`
     }, (2000));
 })

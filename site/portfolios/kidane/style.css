@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(47, 47, 47);
+    color: rgb(145, 230, 41);
+    font-family: monospace;
+}
+
+
+#defaultCanvas2 {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    pointer-events: none;
+}
+
+
+#greeting {
+    width: 100%;
+
+}
+
+/*#leftads {
+    position: absolute;
+    left: -30;
+    bottom: 10;
+}*/
+
+
+nav{
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+
+.flex {
+    justify-content: center;
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.block {
+    margin: 10px 0px 10px 0px;
+    min-width: 400px;
+    width: 600px;
+    background-color: rgb(41, 71, 11);
+    box-shadow: 2px 4px black;
+}
+
+.block p {
+    margin: 0px 10px 10px 15px;
+}
+
+h1 {
+    width: max-content;
+    background-color: rgb(30, 48, 5);
+    font-size: medium;  
+    margin: 0px 0px 10px 0px;
+    padding: 5px;   
+    color: rgb(207, 238, 144);
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;  
+    margin: 10px 0px 0px 10px;
+    padding: 5px;   
+    color: rgb(207, 238, 144);
+    font-style: italic;
+}
+
+span {
+    color: rgb(80, 105, 39);
+}
+
+pre {
+    margin: 0px;
+}
+
+#badges {
+    display: flex;
+    justify-content: center;
+    align-items: center     ;
+    min-width: 300px;
+    width: 450px;
+    margin: 10px 0px 10px 0px;
+    flex-wrap: wrap;
+}
+
+#badges img {
+    padding: 4px;
+}

@@ -84,33 +84,38 @@ frame =0;
         sprite=petL;
         dir = -1
     }
-    if (distance < 33*2.5){
-        //play animation
-        frame = 0;
 
-       if (mouseIsPressed) {
-           spinning = true;
-       }
+}
 
+if (distance < 33*2.5){
+    //play animation
+    frame = 0;
+
+    if (mouseIsPressed) {
+        spinning = true;
     }
 
-      frame = floor(counter) % 5 +4;
 }
+
+frame = floor(counter) % 5 +4;
 
 
 if (spinning) {
     print("spinning")
-    offset = lerp(offset, -50, 0.4);
-    if (angle*dir < 360 * dir){
-        angle += 20;
+    offset = lerp(offset, -60, 0.4);
+    if (abs(angle) < 360){
+        angle += 10;
     }
-    if (angle*dir >= 360*dir){
+    if (abs(angle) >= 360){
         angle = 0;
         spinning = false;
-        offset = 0;
+
     }
 }
+else {
+    offset = lerp(offset, 0, 0.4);
 
+}
 
 
 
@@ -132,7 +137,7 @@ if (spinning) {
 
     rotateZ(radians(angle));
 
-    translate(0, offset);
+    translate(32*1.25, -32*1.25+offset);
 
     //draws pet
  image(sprite, -32*1.25, 32*1.25, 32*2.5, 32*2.5, 0, 32*frame, 32, 32 );

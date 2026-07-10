@@ -6,6 +6,15 @@
   t hese tende*d to confuse some people, so I only kept
   the images as variables */
 
+ #defaultCanvas0{
+     position: fixed !important;
+     top: 0 !important;
+     left: 0 !important;
+     width: 100% !important;
+     height: 100% !important;
+    pointer-events: none;
+}
+
  :root {
      --header-image: url('https://i.ytimg.com/vi/AhIAwNgMj9Y/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AGcBYAC4AOKAgwIABABGEggZShlMA8=&rs=AOn4CLBdhInc34n6jVLBnOW77IVIGLsHBw');
      --body-bg-image: url('https://sadhost.neocities.org/images/tiles/purplesky.gif');

@@ -1,4 +1,29 @@
+
+
+# HINT!
+# A robots.txt file is a set of guidelines for bots. This file
+# is included in the source files of most websites. Robots.txt
+# files are intended for managing the activities of bots like
+# web crawlers, although not all bots will follow the
+# instructions.  Think of a robots.txt file as being like a
+# "Code of Conduct" sign posted on the wall at a gym, a bar,
+# or a community center: The sign itself has no power to
+# enforce the listed rules, but "good" patrons will follow the
+# rules, while "bad" ones are likely to break them and get
+# themselves banned.  A bot is an automated computer program
+# that interacts with websites and applications. One type of
+# bot is called a web crawler bot. These bots "crawl" webpages
+# and index the content so that it can show up in search
+# engine results. A robots.txt file helps manage the
+# activities of these web crawlers so that they don't overtax
+# the web server hosting the website, or index pages that
+# aren't meant for public view. A robots.txt file can also
+# help manage the activities of AI crawler bots, which can
+# sometimes place far more of a demand on web servers than
+# traditional web crawler bots.
+
 # most people never read this file. that's exactly why it's a good hiding spot.
+
 
 User-agent: *
 Allow: /

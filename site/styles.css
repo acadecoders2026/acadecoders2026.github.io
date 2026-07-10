@@ -4,7 +4,7 @@
     margin-top: 1%;
     background: rgb(28, 28, 28);
     color: white;
-    transition: font-size 0.3s ease, transform 0.3s ease, color 0.3s ease, opacity 2s ease;
+    transition: font-size 0.2s ease, transform 0.3s ease, color 0.3s ease, opacity 2s ease;
     scrollbar-width: thin;
 }
 
@@ -25,6 +25,7 @@ h1:hover{
     border: 3px dotted white;
     width: 50%;
     height: 5%;
+    margin-left:25%;
 }
 #thinking:hover{
     cursor:grab;
@@ -80,4 +81,19 @@ hr:first-of-type{
     width: 98%;
     margin-left:0px;
     border: solid 1px white;
+}
+
+#ctf {
+    text-align: center;
+    font-size: 170%;
+}
+#ctfParent {
+    text-align: center;
+}
+#ctfParent:hover{
+    transform: rotate(3deg);
+}
+
+#ctf:hover {
+    font-size: 200%;
 }

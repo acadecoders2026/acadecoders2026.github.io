@@ -16,6 +16,7 @@
 14. `FLAG{sitemap_slug_b64}` — base64-encoded slug in a fake `<loc>` entry in `sitemap.xml`
 15. `FLAG{robots_txt_disallow_path}` — plain text in a `Disallow:` path in `robots.txt`
 16. `FLAG{html_entity_encoded_flag}` — HTML-entity-encoded string inside an HTML comment in `about.html` (entities aren't decoded inside comments, so it must be decoded manually)
+17. `FLAG{very_secret_flag}` - in /ctf/secret.md
 
 ## Tools a solver will want
 - Browser DevTools: Elements, Console, Network, Application (Storage) tabs

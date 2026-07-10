@@ -25,6 +25,7 @@ h1:hover{
     border: 3px dotted white;
     width: 50%;
     height: 5%;
+    margin-left:25%;
 }
 #thinking:hover{
     cursor:grab;

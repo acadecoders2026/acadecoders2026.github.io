@@ -6,9 +6,18 @@
 these tended to confuse some people, so I only kept 
 the images as variables */
 
+#defaultCanvas0{
+    position: fixed !important;
+    left: 0 !important;
+    top:0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    pointer-events: none;
+}
+
 :root {
     --header-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2Jo6NNWpgrOD4GxOObotPX3JBzfdhO5Wz8vnu52Qlw&s=10);
-    --body-bg-image: url('https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftenor.com%2Fview%2Fcherry-blossom-gif-26216471&ved=0CBUQjRxqFwoTCMighLmgwZUDFQAAAAAdAAAAABBp&opi=89978449');
+    --body-bg-image: url('cherry-blossom.gif');
 
     /* colors */
     --content: #bf9ee8;

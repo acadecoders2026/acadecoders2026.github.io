@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag Tracker</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --border: #2a2d34;
+    --fg: #e8e8e8;
+    --dim: #8a8f98;
+    --accent: #4cd964;
+    --bad: #ff6b6b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  header {
+    padding: 2rem;
+    border-bottom: 1px solid var(--border);
+  }
+  main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  .progress-wrap {
+    margin: 1rem 0 2rem;
+  }
+  .progress-bar {
+    height: 10px;
+    border-radius: 5px;
+    background: var(--border);
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    background: var(--accent);
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+  .progress-label {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--dim);
+  }
+  form {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  input[type="text"] {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--fg);
+    font-family: ui-monospace, monospace;
+    font-size: 1rem;
+  }
+  input[type="text"]:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  button {
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+    border: none;
+    background: var(--accent);
+    color: #05170a;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button:hover { opacity: 0.9; }
+  button.secondary {
+    background: transparent;
+    color: var(--dim);
+    border: 1px solid var(--border);
+  }
+  #message {
+    min-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+  }
+  #message.ok { color: var(--accent); }
+  #message.err { color: var(--bad); }
+  ul.flag-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+  ul.flag-list li {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--panel);
+  }
+  ul.flag-list li.found {
+    border-color: var(--accent);
+  }
+  .badge {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+  li.found .badge {
+    background: var(--accent);
+    color: #05170a;
+    border-color: var(--accent);
+  }
+  .hint {
+    color: var(--dim);
+    font-size: 0.9rem;
+  }
+  .found-flag {
+    font-family: ui-monospace, monospace;
+    font-size: 0.85rem;
+    color: var(--accent);
+  }
+  footer {
+    padding: 2rem;
+    text-align: center;
+    color: var(--dim);
+    font-size: 0.85rem;
+  }
+  .actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🚩 Flag Tracker</h1>
+  <p>Paste a flag you found below. It's checked against a hashed answer key, entirely in your browser &mdash; nothing is sent anywhere.</p>
+</header>
+
+<main>
+  <div class="progress-wrap">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <div class="progress-label" id="progressLabel">0 / 0 found</div>
+  </div>
+
+  <form id="flagForm" autocomplete="off">
+    <input type="text" id="flagInput" placeholder="FLAG{...}" autofocus>
+    <button type="submit">Check</button>
+  </form>
+  <div id="message"></div>
+
+  <ul class="flag-list" id="flagList"></ul>
+
+  <div class="actions">
+    <button type="button" class="secondary" id="resetBtn">Reset progress</button>
+  </div>
+</main>
+
+<footer>
+  Progress is saved in your browser's localStorage, so it survives page reloads
+  (but is local to this browser/device only).
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  // Known flags are stored as SHA-256 hashes so this file never contains
+  // the plaintext answers. Each entry also has a short, non-spoiling hint.
+  const FLAGS = [
+    { id: "html-comment",   hint: "Hidden in an HTML comment",                 hash: "014835f929c76178d22fc15b96ae4e85d38ccff5739529977cb05f64742ddaf9" },
+    { id: "meta-tag",       hint: "A <meta> tag in the document head",         hash: "7feff260bb6785cba08276b196b7afff358f86660e5b2c9ea1fc596e48d81b38" },
+    { id: "display-none",   hint: "An element hidden with display:none",       hash: "2d49a3fdfc0fd2dabb5f966e2154771041c719420e8f2df3ea28af1d948fbc9c" },
+    { id: "white-on-white", hint: "Text colored to match its background",      hash: "09950255fe07a7226aa3020187cceb1b5d5e1dc336cf46d0540c8d2782088ff9" },
+    { id: "data-attr",      hint: "Base64 inside a data-* attribute",          hash: "b27766dfe52b7906e9c03d8859e1c4049b0834f1bd519a7b63088d579189546a" },
+    { id: "css-before",     hint: "CSS ::before content property",             hash: "501bc513312aeacba0272ecc2d1bab1771a6bfbbcceb8b411fd4e0a80c38ef52" },
+    { id: "css-var",        hint: "A CSS custom property (--variable)",        hash: "1fb709ac4cc4b08466ca7bc7f4d2bbf689afd11c8c6567b83a8feb0eec2660d7" },
+    { id: "network-tab",    hint: "A network request payload",                hash: "71b64d58030c51cbbfeb0c058ab8e73e100464871066ba4900189ee049c62197" },
+    { id: "localstorage",   hint: "Tucked into localStorage",                  hash: "1c0b04a4f599f085eba68404049e74d04362ac2939ae5b7c5f42839ebfc6e48f" },
+    { id: "char-codes",     hint: "A JS array of character codes",            hash: "d1ad3a5eb24d69b987545bf8a27861e346fd33c1e46453902e134d897ce20ee0" },
+    { id: "js-atob",        hint: "A base64 string decoded with atob()",       hash: "014fe69220f291c854fbe38cc1cf985dabf5a60b54a5989f576fa731a1b7f491" },
+    { id: "rot13",          hint: "Text encoded with ROT13",                   hash: "22cbba35c283677415b3872ca78ad0d0b7b6a00c91a18b5e17b720bdb5e888a9" },
+    { id: "svg-title",      hint: "Metadata inside an SVG element",           hash: "3b07c35b1c60a1b167f8a54872262fd94915c044c8b30582472c36f60edb9caf" },
+    { id: "sitemap-slug",   hint: "A base64 slug in sitemap.xml",             hash: "45848b1e1e8e54ab54a7cfa63d86330d86f7cd6f0ed55298ea0f6c72179f1ffd" },
+    { id: "robots-path",    hint: "A path in robots.txt",                     hash: "5a30ff3fd442ce0677611fabedf5bf66af8b49f5d325919d1de1f13411d179e7" },
+    { id: "html-entities",  hint: "HTML entities inside a comment",           hash: "f2c458ee32c10798d6c4846305248b1847875f351b50f528133d48223c09ce6d" },
+    { id: "secret-flag",  hint: "A secret file?",           hash: "7b01ba9b0bf8443c30bff5b99f1b07f38992158b65407ee390cf3ecfeb9d32d2" },
+  ];
+
+  const STORAGE_KEY = "flag_tracker_progress_v1";
+
+  function loadProgress() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      return raw ? JSON.parse(raw) : {};
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function saveProgress(progress) {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    } catch (e) {
+      // storage unavailable (private mode etc), fail silently
+    }
+  }
+
+  let progress = loadProgress(); // { [id]: plaintextFlagTheyEntered }
+
+  async function sha256Hex(text) {
+    const data = new TextEncoder().encode(text);
+    const digest = await crypto.subtle.digest("SHA-256", data);
+    return Array.from(new Uint8Array(digest))
+      .map((b) => b.toString(16).padStart(2, "0"))
+      .join("");
+  }
+
+  const listEl = document.getElementById("flagList");
+  const progressFill = document.getElementById("progressFill");
+  const progressLabel = document.getElementById("progressLabel");
+  const messageEl = document.getElementById("message");
+  const form = document.getElementById("flagForm");
+  const input = document.getElementById("flagInput");
+  const resetBtn = document.getElementById("resetBtn");
+
+  function render() {
+    listEl.innerHTML = "";
+    let foundCount = 0;
+
+    FLAGS.forEach((f) => {
+      const isFound = Boolean(progress[f.id]);
+      if (isFound) foundCount++;
+
+      const li = document.createElement("li");
+      if (isFound) li.classList.add("found");
+
+      const badge = document.createElement("span");
+      badge.className = "badge";
+      badge.textContent = isFound ? "✓" : "?";
+
+      const textWrap = document.createElement("div");
+      const hint = document.createElement("div");
+      hint.className = "hint";
+      hint.textContent = f.hint;
+      textWrap.appendChild(hint);
+
+      if (isFound) {
+        const flagText = document.createElement("div");
+        flagText.className = "found-flag";
+        flagText.textContent = progress[f.id];
+        textWrap.appendChild(flagText);
+      }
+
+      li.appendChild(badge);
+      li.appendChild(textWrap);
+      listEl.appendChild(li);
+    });
+
+    const total = FLAGS.length;
+    progressFill.style.width = total ? `${(foundCount / total) * 100}%` : "0%";
+    progressLabel.textContent = `${foundCount} / ${total} found`;
+
+    if (foundCount === total && total > 0) {
+      progressLabel.textContent += " 🎉 all flags found!";
+    }
+  }
+
+  function showMessage(text, ok) {
+    messageEl.textContent = text;
+    messageEl.className = ok ? "ok" : "err";
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const raw = input.value.trim();
+    if (!raw) return;
+
+    const hash = await sha256Hex(raw);
+    const match = FLAGS.find((f) => f.hash === hash);
+
+    if (!match) {
+      showMessage("Not a recognized flag. Keep looking.", false);
+      return;
+    }
+
+    if (progress[match.id]) {
+      showMessage("Already logged that one.", true);
+    } else {
+      progress[match.id] = raw;
+      saveProgress(progress);
+      showMessage(`Correct! Logged: ${match.hint}`, true);
+      render();
+    }
+
+    input.value = "";
+    input.focus();
+  });
+
+  resetBtn.addEventListener("click", () => {
+    if (!confirm("Clear all saved progress?")) return;
+    progress = {};
+    saveProgress(progress);
+    showMessage("Progress cleared.", true);
+    render();
+  });
+
+  render();
+})();
+</script>
+
+</body>
+</html>

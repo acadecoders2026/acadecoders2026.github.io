@@ -1,2 +1,3415 @@
 red team boot sequence start
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
 red team boot sequence start
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+Completed module check
+
+
+
+Completed system health check, found 12 problems
+
+
+Starting system health check
+
+
+Searching cache...
+Found temporary file 126r61273
+Searching cache...
+Found temporary file 91t64726
+Searching cache...
+Found temporary file 912r32123
+Searching cache...
+Found temporary file 73t26r3
+Searching cache...
+Found temporary file bbsakjbd.txt
+Searching cache...
+Found temporary file 2tr6r217r3
+Searching cache...
+Found temporary file 981698263
+Searching cache...
+Found temporary file 937t4327
+Searching cache...
+Found temporary file 24r6124r
+Searching cache...
+Found temporary file 92173t13273
+Completed tmp check.
+
+
+
+Searching tokens stash...
+Found unknown file dummytoken in stash, deleting...
+Please remove unknown files from /stash to improve efficiency. /stash should only contain .token files.
+
+
+Completed tokens stash check.
+
+
+
+Searching moudle files...
+Module module1.py OK!
+
+
+Searching moudle files...
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+
+WARNING! module1 (Copy).py Module failed to execute:
+expected ':' (module1 (Copy).py, line 3)
+Trying again... 
+
+

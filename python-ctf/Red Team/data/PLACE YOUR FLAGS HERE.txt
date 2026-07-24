@@ -1,0 +1,3 @@
+### PLACE FLAGS HERE, ONE PER LINE:
+
+FLAG{"[*secrets, *more_secrets]"}

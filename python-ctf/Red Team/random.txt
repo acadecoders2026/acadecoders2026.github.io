@@ -1,0 +1,2 @@
+FLAG{"__init__this_secret"}
+

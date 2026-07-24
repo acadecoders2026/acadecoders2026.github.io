@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/kidane/Pictures/canti-mamimi.jpg"
+let background = "#272326"
+let foreground = "#c9c8c8"
+let cursor     = "#c9c8c8"
+
+" Colors
+let color0  = "#272326"
+let color1  = "#A3929A"
+let color2  = "#D1B0B5"
+let color3  = "#D1B4CB"
+let color4  = "#D8B6D9"
+let color5  = "#E9BACA"
+let color6  = "#F2CED2"
+let color7  = "#c9c8c8"
+let color8  = "#7c6570"
+let color9  = "#A3929A"
+let color10 = "#D1B0B5"
+let color11 = "#D1B4CB"
+let color12 = "#D8B6D9"
+let color13 = "#E9BACA"
+let color14 = "#F2CED2"
+let color15 = "#c9c8c8"

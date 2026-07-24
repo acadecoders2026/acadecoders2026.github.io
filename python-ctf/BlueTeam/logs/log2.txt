@@ -1,0 +1,2 @@
+FLAG{"def_secret_revealed():"}
+

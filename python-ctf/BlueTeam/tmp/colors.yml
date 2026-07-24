@@ -1,0 +1,24 @@
+wallpaper: "/home/kidane/Pictures/canti-mamimi.jpg"
+
+special:
+    background: "#272326"
+    foreground: "#c9c8c8"
+    cursor: "#c9c8c8"
+
+colors:
+    color0: "#272326"
+    color1: "#A3929A"
+    color2: "#D1B0B5"
+    color3: "#D1B4CB"
+    color4: "#D8B6D9"
+    color5: "#E9BACA"
+    color6: "#F2CED2"
+    color7: "#c9c8c8"
+    color8: "#7c6570"
+    color9: "#A3929A"
+    color10: "#D1B0B5"
+    color11: "#D1B4CB"
+    color12: "#D8B6D9"
+    color13: "#E9BACA"
+    color14: "#F2CED2"
+    color15: "#c9c8c8"

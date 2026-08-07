@@ -160,7 +160,7 @@ hr:first-of-type{
     width: 370px;
     height: 370px;
     top: 70px;
-    left: 60px;
+    left: 75px;
     z-index: 2;
     background-color: transparent;
     animation: spin 4s linear infinite;

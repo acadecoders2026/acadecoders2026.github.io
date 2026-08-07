@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>AcadeCoders 2026</title>
+    <link rel="stylesheet" href="../../../styles.css"/>
+  </head>
+  <body>
+
+    <hr>
+    <h2>/ Songs</h2>
+    <ul id="songs">
+    </ul>
+    
+
+    <script>
+        const songs = [
+            "song1.mp3",
+            "song2.wav",
+            "song3.mp3"
+        ];
+
+        const list = document.getElementById("songs");
+
+        songs.forEach(song => {
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+
+            a.href = "songs/" + song;
+            a.textContent = song.replace(/\.(mp3|wav)$/i, "");
+
+            li.appendChild(a);
+            list.appendChild(li);
+        });
+    </script>
+  </body>
+</html>

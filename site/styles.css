@@ -4,7 +4,7 @@
     margin-top: 1%;
     background: rgb(28, 28, 28);
     color: white;
-    transition: font-size 0.2s ease, transform 0.3s ease, color 0.3s ease, opacity 2s ease;
+    transition: font-size 0.2s ease, transform 0.3s ease, color 0.3s ease, opacity 2s ease, left 0.5s ease, font-weight 1s ease;
     scrollbar-width: thin;
 }
 
@@ -96,4 +96,88 @@ hr:first-of-type{
 
 #ctf:hover {
     font-size: 200%;
+}
+
+.album {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 5%;
+    z-index: 1;
+
+    margin-left: 5%;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 90%;
+    height: 500px;
+}
+
+
+#albumTitle {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+#description {
+    margin-top: 25%;
+    height: 60%;
+    font-weight: bold;
+    background: transparent;
+}
+
+#description:hover {
+    transform: scale(1.05);
+}
+
+#name {
+    text-align: right;
+}
+
+#lCol {
+    position: relative;
+    width: 40%;      /* fixed column width */
+}
+#rCol{
+    height: 100%;
+    width: 37%;
+}
+
+#cover {
+    position: relative;
+    width: 360px;
+    height: 360px;
+    margin-left: 20px;
+    margin-top: 20px;
+    object-fit: cover;
+    border-radius: 5px;
+    z-index: 3;
+    background-color: transparent;
+    pointer-events: none;
+}
+
+#cd {
+    position: absolute;
+    width: 370px;
+    height: 370px;
+    top: 70px;
+    left: 60px;
+    z-index: 2;
+    background-color: transparent;
+    animation: spin 4s linear infinite;
+}
+
+
+
+#cd:hover {
+    left: 40%;
+    cursor: pointer;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }

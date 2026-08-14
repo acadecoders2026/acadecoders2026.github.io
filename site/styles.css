@@ -167,6 +167,22 @@ hr:first-of-type{
 }
 
 
+#gameCover {
+    position: relative;
+    width: 360px;
+    height: 360px;
+    margin-left: 20px;
+    margin-top: 20px;
+    object-fit: cover;
+    border-radius: 5px;
+    z-index: 3;
+    background-color: transparent;
+}
+#gameCover:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
 
 #cd:hover {
     left: 40%;

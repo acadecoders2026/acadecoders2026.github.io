@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>AcadeCoders 2026</title>
+    <link rel="stylesheet" href="../styles.css"/>
+  </head>
+  <body>
+
+    <div id="NoahJolan" class="album">
+        <div id="lCol">
+            <h2 id="albumTitle">Submission Title</h2>
+            <img id="gameCover" src="covers/NoahJolan.png" data-href="submissions/NoahJolan.html" onclick="openAlbum(this)">
+        </div>
+        <div id="rCol">
+            <p id="description">Describe your game</p>
+            <h3 id="name">By Noah & Jolan</h3>
+        </div>
+    </div>
+
+    <div id="Alex" class="album">
+        <div id="lCol">
+            <h2 id="albumTitle">Submission Title</h2>
+            <img id="gameCover" src="covers/Alex.png" data-href="submissions/Alex.html" onclick="openAlbum(this)">
+        </div>
+        <div id="rCol">
+            <p id="description">Describe your game</p>
+            <h3 id="name">By Alex</h3>
+        </div>
+    </div>
+
+    <div id="Caden" class="album">
+        <div id="lCol">
+            <h2 id="albumTitle">Submission Title</h2>
+            <img id="gameCover" src="covers/Caden.png" data-href="submissions/Caden.html" onclick="openAlbum(this)">
+        </div>
+        <div id="rCol">
+            <p id="description">Describe your game</p>
+            <h3 id="name">By Caden</h3>
+        </div>
+    </div>
+
+
+
+    <script>
+        function openAlbum(album) {
+            window.location.href = album.dataset.href
+        }
+    </script>
+    
+  </body>
+</html>
